@@ -1,3 +1,3 @@
 # StringMethods
 
-This program combines, outputs, and analyzes the number of characters in two user entered strings.
+This program outputs two user-entered phrases, counts the characters in each, concatenates them, and replaces the vowels with asterisks.
