@@ -1,2 +1,3 @@
 # StringMethods
-Project 3 from my Programming Concepts class during the Spring 2016 semester.
+
+This program combines, outputs, and analyzes the number of characters in two user entered strings.
