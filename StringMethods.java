@@ -1,10 +1,10 @@
-//***************************************************************
+//**************************************************************
 //Steven Smail
 //StringMethods.java
 //
 //Output and combine two user entered phrases and modify and
 //analyze the number of characters in the composite string.
-//***************************************************************
+//**************************************************************
 import java.util.Scanner;
 
 public class StringMethods
